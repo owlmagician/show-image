@@ -64,7 +64,7 @@ export default function WaitSerial() {
     return (
         <div className={style.container}>
 
-            <h1 style={{ color: 'green' }}>  GAIKAN  </h1>
+            <h1 style={{ color: 'green' }}>  SHOW-IMAGE  </h1>
             <Input
                 ref={Input_ref}
                 classNames={{ wrapper: style.Input_wrapper }}

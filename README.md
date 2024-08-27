@@ -1,4 +1,4 @@
-# gaikan-v2
+# show-image
 
 An Electron application with React and TypeScript
 
